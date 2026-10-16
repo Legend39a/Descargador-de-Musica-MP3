@@ -1,0 +1,29 @@
+# Credenciales y tokens
+.env
+.cache
+.cache-*
+
+# Entornos virtuales
+.venv/
+.venv-1/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Descargas y carpetas de prueba
+descargas/
+aca/
+*.mp3
+
+# Binarios de FFmpeg
+LibreriaFFMPEG/
+ffmpeg*/
+*.7z
+
+# Editores y sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
